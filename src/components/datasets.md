@@ -26,7 +26,7 @@ To add multiple datasets, simply add more than one `<td>` tag to each of the `<t
     </tr>
     <tr>
       <th scope="row"> Europe </th>
-      <td style="--size: calc( 40 / 100 );"> <span class="data"> $40K </span> </td>
+      <td style="--size: calc( 30 / 100 );"> <span class="data"> $40K </span> </td>
       <td style="--size: calc( 60 / 100 );"> <span class="data"> $60K </span> </td>
       <td style="--size: calc( 75 / 100 );"> <span class="data"> $75K </span> </td>
       <td style="--size: calc( 90 / 100 );"> <span class="data"> $90K </span> </td>
